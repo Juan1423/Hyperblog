@@ -1,7 +1,7 @@
 body{
     color: #333;
     text-align:  center;
-    font-family:"Arial";
+    font-family: Couruier;
     margin: 0;
     padding: 0;
 }
@@ -9,10 +9,10 @@ body{
 #container
 {
     width: 70%;
-    padding: lem;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-    margin: o auto;
+    margin: 0 auto;
 }
 
 #container h1
